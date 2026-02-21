@@ -16,7 +16,7 @@ class SettingSeeder extends Seeder
         $settings = [
             [
                 'key' => 'company_name',
-                'value' => 'Rachmatsumo Tech Stark',
+                'value' => 'Ali',
                 'type' => 'string',
                 'description' => 'Nama perusahaan',
             ],

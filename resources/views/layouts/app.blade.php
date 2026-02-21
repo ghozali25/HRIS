@@ -62,7 +62,7 @@
     <div id="loader-overlay">
         <div class="spinner mb-2"></div> 
         {{ config('app.description', 'Human Resources Information System') }}
-        <span>by {{ config('app.author', 'Abdul Rachmat') }}</span>
+        <span>by {{ config('app.author', 'Ahmad Ghozali') }}</span>
     </div>
     <!-- Konten aplikasi Laravel -->
     <div id="app">
@@ -200,7 +200,7 @@
                         <h6 class="mb-2">{{ setting('company_name') }} - HRIS</h6>
                         <small class="text-muted">
                             Human Resources Information System<br>
-                            by {{ config('app.author', 'Abdul Rachmat') }}
+                            by {{ config('app.author', 'Ahmad Ghozali') }}
                         </small>
                     </div>
                     <div class="col-12 col-md-6 text-center text-md-end">

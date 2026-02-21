@@ -15,7 +15,7 @@ return [
 
     'name' => env('APP_NAME', 'HRIS'),
     'description' => env('APP_DESCRIPTION', 'Human Resource Information System'),
-    'author' => env('APP_AUTHOR', 'Abdul Rachmat'),
+    'author' => env('APP_AUTHOR', 'Ahmad Ghozali'),
 
     /*
     |--------------------------------------------------------------------------
